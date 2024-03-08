@@ -10,7 +10,7 @@ Effective archival strategies, employing redundant backups and archival-quality 
 
 ***
 
-## Long-term Electronic Preservation Design
+## Long-Term Electronic Preservation Design
 
 Designing electronics for long-term preservation necessitates a meticulous approach that encompasses various aspects to guarantee durability and reliability. One fundamental consideration is the careful selection of components with documented lifespans and proven durability. Components with extended operational lifetimes and resistance to environmental stressors are preferred to ensure sustained functionality over years or even decades.
 
