@@ -10,9 +10,8 @@ An often overlooked aspect is the preservation of original hardware components, 
 
 Effective archival strategies, employing redundant backups and archival-quality storage media, are crucial for safeguarding against data loss. Using open standards and widely supported file formats for project artifacts enhances the likelihood of future accessibility, regardless of the specific software or platform availability. Moreover, navigating legal and ethical considerations, such as copyright laws and personal privacy, is important in the preservation process. Instilling good practices in documentation, version control, and project management ensures that the knowledge and intellectual property embedded in Arduino projects remain accessible and intact for future generations, preserving the integrity and functionality of both digital and physical components.
 
-***
-
-## Long-Term Electronic Preservation Design
+#
+### Long-Term Electronic Preservation Design
 
 ![Preserved](https://github.com/sourceduty/Electronic_Preservation/assets/123030236/803c002a-78df-44d7-8b87-81e0525e03a5)
 
