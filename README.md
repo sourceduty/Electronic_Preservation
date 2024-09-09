@@ -39,6 +39,10 @@ In comparison to existing services like the Internet Archive or cloud storage pl
 A significant aspect of the website's structure would be its sustainability and independence from current technological frameworks. For example, while today's storage solutions often rely on centralized servers that can become outdated, the conceptual site would integrate decentralized storage networks like IPFS (InterPlanetary File System) to distribute files globally. This would ensure that data remains accessible and intact, even if parts of the network were to go down. Additionally, advanced compression and data optimization techniques would reduce the environmental and economic costs of storage, allowing the site to operate efficiently over long periods of time.
 
 #
+
+![Information](https://github.com/user-attachments/assets/83711f49-40ff-4167-b3be-f3423a3404d9)
+
+#
 ### Related Links
 
 [Modernization](https://github.com/sourceduty/Modernization)
